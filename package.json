@@ -1,0 +1,16 @@
+{
+  "name": "browser-queue",
+  "version": "1.0.0",
+  "description": "Package that takes care of async (medium & low) priority events/callbacks on the browser, without blocking the main thread.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuvaraj",
+  "license": "none",
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "typescript": "^5.8.3",
+    "prettier": "^3.5.3"
+  }
+}
